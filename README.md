@@ -32,7 +32,7 @@
 
 ### Skills
 
-- `Python` `R` `SQL` `SPSS`
+- `Python` `R` `SQL` `SPSS` `SAS`
 - SQL준전문가(SQLD)
 - 데이터분석준전문가(ADSP)
 - SAS 자격증(Base, Advanced, Predictive modeler)
