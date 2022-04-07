@@ -39,12 +39,18 @@
 - SQL준전문가(SQLD)
 - 데이터분석준전문가(ADSP)
 - SAS 자격증(Base, Advanced, Predictive modeler)
+- 
 
 ## Project
-
-__Click for [Portfolio]()__
-
+- COhort 분석
 - 
+- KB 손해보험 음성봇 개발 프로젝트 2년 (IBM Watson assistant 사용)
+- KB 손해보험 소셜 텍스트 분석 6개월 (Daum soft software 사용)
+
+
+## Award
+- 금감원 금융캠프(주제:비트코인) 현대해상상
+- KT 잘나가게 중소상인 컨설팅 우수상
 
 
 ## Courses
