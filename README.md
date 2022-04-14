@@ -52,6 +52,8 @@
 - 금감원 금융캠프(주제:비트코인) 현대해상상
 - KT 잘나가게 중소상인 컨설팅 우수상
 
+## Thesis
+- Cohort-based life contingencies based on time-dependent Gompertz model(시간 의존형 곰페르츠 모델에 기반한 생명보험수리에 대한 연구), 2017
 
 ## Courses
 
