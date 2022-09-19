@@ -42,7 +42,7 @@
 - SAS 자격증(Base, Advanced, Predictive modeler)
 - 
 
-## Project
+## Project (작성중)
 - COhort 분석
 - 
 - KB 손해보험 음성봇 개발 프로젝트 2년 (IBM Watson assistant 사용)
@@ -52,6 +52,9 @@
 ## Award
 - 금감원 금융캠프(주제:비트코인) 현대해상상
 - KT 잘나가게 중소상인 컨설팅 우수상
+- 서울신용보증재단 소상공인 활성화를 위한 정책 공모전 참가(22.10~11)
+- 비씨카드 금융 빅데이터를 활용한 사회문제 해결 아이디어 경진대회 (22.10~11)
+
 
 ## Thesis
 - Cohort-based life contingencies based on time-dependent Gompertz model(시간 의존형 곰페르츠 모델에 기반한 생명보험수리에 대한 연구), 2017
